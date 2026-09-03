@@ -1,0 +1,18 @@
+{
+  "name": "elevvo-task2-async-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Elevvo Backend Internship - Task 2: Fault-Tolerant Async Data Engine",
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
